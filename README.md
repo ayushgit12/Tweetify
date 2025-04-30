@@ -10,8 +10,6 @@ engage in real time debates.
 
 • Email Notifications: Nodemailer is used to send email notifications for various actions, such as login, signup, reset password, reporting of tweets, etc.
 
-• OT (Operational Transformation): This technology ensures seamless collaboration on data, particularly when multiple users are editing the same content simultaneously.
-
 ## Tech Stack
 • Frontend: React.js + Vite
 
